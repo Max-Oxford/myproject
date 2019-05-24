@@ -1,1 +1,2 @@
 sd(x)
+mean(y)
